@@ -3,7 +3,7 @@
 
 
 ## Demo
-
+https://github.com/anushapathak/Brain_threejs/blob/main/screenshot/brain3d.png
 
 ## How to install
 
